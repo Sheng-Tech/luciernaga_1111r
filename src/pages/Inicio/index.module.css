@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    gap: 1rem;
+    justify-content: space-around;
+    padding: 1rem 7%;
+    align-items: center;
+  }
+
+  .imagen {
+    width: 286px;
+    height: 286px;
+    margin: 0px auto;
+    border-radius: 50%;
+  }
+
+  .span {
+    width: 90%;
+    font-size: 14px;
+  }
+
+  .banner {
+    width: 100%;
+  }
